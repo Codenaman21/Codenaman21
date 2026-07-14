@@ -44,7 +44,7 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs"/>
 </p>
 
 ### AI / ML
