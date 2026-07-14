@@ -91,12 +91,6 @@
 
 ---
 
-# 👾 Pacman Contribution Graph
-
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Codenaman21/Codenaman21/output/pacman-contribution-graph-dark.svg)
-
----
-
 # 😂 Random Programming Joke
 
 <p align="center">
